@@ -2,7 +2,7 @@
 
   ### Elden Towers
   
-  *Come find your tower: Custom faction wars, daily fight clubs, server wagers, all part of an enthusiastic Elden Ring community!*
+  *Come find your tower: Custom faction (tower) wars, daily fight clubs, server wagers, all part of an enthusiastic Elden Ring community!*
   
   [![](https://dcbadge.limes.pink/api/server/https://discord.gg/towers)](https://discord.gg/towers)
   <hr>
