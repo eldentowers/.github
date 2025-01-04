@@ -1,4 +1,5 @@
-<img width="3880" alt="banner_invite2" src="https://github.com/eldentowers/.github/assets/38340485/db93397b-5d82-4bab-8758-b4cea76e1d55">
+
+![banner_invite3](https://github.com/user-attachments/assets/1f51a9f3-c1a1-427b-8654-d82136ba5cd4)
 
   ### Elden Towers
   
